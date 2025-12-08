@@ -40,6 +40,7 @@ Connect to host's IP address on port 3000 in web browser of your choice from you
 To play, press F11 key to enter fullscreen mode and P key to lock your cursor. To unlock press P key again.
 
 WASD to move, space to jump, left mouse button to shoot.
+To view current leaderboard hold TAB.
 
 ## Features
 
